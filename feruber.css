@@ -1,0 +1,11 @@
+.poc-scenario {
+  border: 1px solid red;
+}
+
+.poc-scenario h1 {
+  color: blue;
+}
+
+.poc-scenario p {
+  color: green;
+}
